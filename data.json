@@ -1,29 +1,23 @@
 [
     {
         "id": 0,
-        "image": "https://codingapple1.github.io/app/img0.jpg",
-        "likes": 5,
-        "date": "July 25",
-        "content": "등을 대라 등대",
-        "liked": false,
-        "user": "John Kim"
+        "latitude": 36.63021649146193,
+        "longitude": 127.45604073262643,
+        "title": "CBNU",
+        "snippet": "편의점",
     },
     {
         "id": 1,
-        "image": "https://codingapple1.github.io/app/img1.jpg",
-        "likes": 22,
-        "date": "Aug 3",
-        "content": "요즘 폰카는 성능이 좋습니다",
-        "liked": false,
-        "user": "Hilton_m"
+        "latitude": 36.6271218612418,
+        "longitude": 127.45707262252512,
+        "title": "CBNU",
+        "snippet": "s-2",
     },
     {
         "id": 2,
-        "image": "https://codingapple1.github.io/app/img2.jpg",
-        "likes": 10,
-        "date": "Nov 30",
-        "content": "기린바보 😵",
-        "liked": false,
-        "user": "rimvely1"
+        "latitude": 36.62823087889304,
+        "longitude": 127.45922078901006,
+        "title": "CBNU",
+        "snippet": "개신문화관",
     }
 ]
