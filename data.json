@@ -4,6 +4,40 @@
     "latitude": 36.63021649146193,
     "longitude": 127.45604073262643,
     "title": "CBNU",
-    "snippet": "편의점"
-  } 
+    "snippet": "편의점",
+    "type": "k"
+  },
+  {
+    "id": "1",
+    "latitude": 36.63021649146193,
+    "longitude": 127.45604073262643,
+    "title": "CBNU",
+    "snippet": "편의점",
+    "type": "j"
+  },
+  {
+    "id": "2",
+    "latitude": 36.63021649146193,
+    "longitude": 127.45604073262643,
+    "title": "CBNU",
+    "snippet": "편의점",
+    "type": "c"
+  },
+  {
+    "id": "3",
+    "latitude": 36.63021649146193,
+    "longitude": 127.45604073262643,
+    "title": "CBNU",
+    "snippet": "편의점",
+    "type": "w"
+  },
+  {
+    "id": "4",
+    "latitude": 36.63021649146193,
+    "longitude": 127.45604073262643,
+    "title": "CBNU",
+    "snippet": "편의점",
+    "type": "m"
+  },
+ 
 ]
