@@ -1,43 +1,46 @@
 [
   {
-    "id": "0",
-    "latitude": 36.63021649146193,
-    "longitude": 127.45604073262643,
-    "title": "CBNU",
-    "snippet": "편의점",
-    "type": "k"
+    "id": "m-0",
+    "type": "w",
+    "latitude": "36.631989610917",
+    "longitude": "127.457778809543",
+    "title": "월미당",
+    "holiday": "",
+    "phienumber": "",
+    "snippet": "쌀국수",
+    "tag": "중문,한국식 쌀국수"
   },
   {
-    "id": "1",
-    "latitude": 36.63021649146193,
-    "longitude": 127.45604073262643,
-    "title": "CBNU",
-    "snippet": "편의점",
-    "type": "j"
+    "id": "m-1",
+    "type": "w",
+    "latitude": "36.631613226777624",
+    "longitude": "127.4601164219369",
+    "title": "모퉁이파스타",
+    "holiday": "",
+    "phienumber": "",
+    "snippet": "파스타",
+    "tag": "중문"
   },
   {
-    "id": "2",
-    "latitude": 36.63021649146193,
-    "longitude": 127.45604073262643,
-    "title": "CBNU",
-    "snippet": "편의점",
-    "type": "c"
+    "id": "m-2",
+    "type": "snackbar",
+    "latitude": "36.63340796260416",
+    "longitude": "127.45854375021425",
+    "title": "와와떡볶이",
+    "holiday": "",
+    "phienumber": "",
+    "snippet": "분식",
+    "tag": "중문"
   },
   {
-    "id": "3",
-    "latitude": 36.63021649146193,
-    "longitude": 127.45604073262643,
-    "title": "CBNU",
-    "snippet": "편의점",
-    "type": "w"
-  },
-  {
-    "id": "4",
-    "latitude": 36.63021649146193,
-    "longitude": 127.45604073262643,
-    "title": "CBNU",
-    "snippet": "편의점",
-    "type": "m"
+    "id": "m-3",
+    "type": "snackbar",
+    "latitude": "36.6339192963054",
+    "longitude": "127.45868796727308",
+    "title": "쩔어떡볶이",
+    "holiday": "",
+    "phienumber": "",
+    "snippet": "분식",
+    "tag": "중문"
   }
- 
 ]

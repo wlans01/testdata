@@ -1,43 +1,57 @@
 [
   {
-    "id": "0",
-    "latitude": 36.63021649146193,
-    "longitude": 127.45604073262643,
-    "title": "CBNU",
-    "snippet": "편의점",
-    "type": "k"
+    "id": "c-0",
+    "type": "c",
+    "latitude": "36.633717781404734",
+    "longitude": "127.45759570354707",
+    "title": "왕큰손파닭",
+    "holiday": "매일 17:00~02:00",
+    "phienumber": "043-268-8292",
+    "snippet": "파닭,치킨",
+    "tag": "중문,많음"
   },
   {
-    "id": "1",
-    "latitude": 36.63021649146193,
-    "longitude": 127.45604073262643,
-    "title": "CBNU",
-    "snippet": "편의점",
-    "type": "j"
+    "id": "c-1",
+    "type": "c",
+    "latitude": "36.63393529385305",
+    "longitude": "127.45913005635082",
+    "title": "왕천파닭",
+    "holiday": "매일 16:00~01:00",
+    "phienumber": "043-263-4088",
+    "snippet": "파닭,치킨",
+    "tag": "중문,많음"
   },
   {
-    "id": "2",
-    "latitude": 36.63021649146193,
-    "longitude": 127.45604073262643,
-    "title": "CBNU",
-    "snippet": "편의점",
-    "type": "c"
+    "id": "c-2",
+    "type": "c",
+    "latitude": "36.63302293024008",
+    "longitude": "127.45946080219105",
+    "title": "아웃닭",
+    "holiday": "매일 16:00~01:00",
+    "phienumber": "0507-1321-5892",
+    "snippet": "순살닭",
+    "tag": "중문"
   },
   {
-    "id": "3",
-    "latitude": 36.63021649146193,
-    "longitude": 127.45604073262643,
-    "title": "CBNU",
-    "snippet": "편의점",
-    "type": "w"
+    "id": "c-3",
+    "type": "c",
+    "latitude": "36.632572256553544",
+    "longitude": "127.45880952750781",
+    "title": "부리또인",
+    "holiday": "11:00~21:00, 토일 휴일",
+    "phienumber": "043-266-1919",
+    "snippet": "부리또",
+    "tag": "중문"
   },
   {
-    "id": "4",
-    "latitude": 36.63021649146193,
-    "longitude": 127.45604073262643,
-    "title": "CBNU",
-    "snippet": "편의점",
-    "type": "m"
+    "id": "c-4",
+    "type": "c",
+    "latitude": "36.6340694556524",
+    "longitude": "127.456114295327",
+    "title": "바니쉬버거",
+    "holiday": "매일11:30~21:00",
+    "phienumber": "010-3351-0699",
+    "snippet": "수제버거",
+    "tag": "중문"
   }
- 
 ]
