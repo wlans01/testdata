@@ -23,7 +23,7 @@
   },
   {
     "id": "m-2",
-    "type": "snackbar",
+    "type": "w",
     "latitude": 36.63340796260416,
     "longitude": 127.45854375021425,
     "title": "와와떡볶이",
@@ -34,7 +34,7 @@
   },
   {
     "id": "m-3",
-    "type": "snackbar",
+    "type": "w",
     "latitude": 36.6339192963054,
     "longitude": 127.45868796727308,
     "title": "쩔어떡볶이",
